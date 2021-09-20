@@ -1,6 +1,8 @@
-# number_trivvia
+# number_trivia
 
-A number trivia app
+A number trivia app.
+
+Course: https://www.youtube.com/watch?v=KjE2IDphA_U&list=PLB6lc7nQ1n4iYGE_khpXRdJkJEp9WOech
 
 ## Getting Started
 
